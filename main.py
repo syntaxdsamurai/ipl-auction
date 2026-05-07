@@ -1,16 +1,12 @@
-# This is a sample Python script.
+from auction import Auction
 
-# Press Shift+F10 to execute it or replace it with your code.
-# Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
+def main():
+    auction = Auction()
+    auction.load_players('data/players.json')
+    auction.setup_teams()
+    auction.run()
+    auction.show_results()
+    auction.save_results('auction_results.txt')
 
-
-def print_hi(name):
-    # Use a breakpoint in the code line below to debug your script.
-    print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
-
-
-# Press the green button in the gutter to run the script.
 if __name__ == '__main__':
-    print_hi('PyCharm')
-
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/
+    main()

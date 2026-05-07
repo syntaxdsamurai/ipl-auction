@@ -96,9 +96,4 @@ class Auction :
 
 
 
-auction = Auction()
-auction.load_players('data/players.json')
-auction.setup_teams()
-auction.run()
-auction.show_results()
-auction.save_results('auction_results.txt')
+
