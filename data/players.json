@@ -1,0 +1,22 @@
+[
+    {"name": "Rohit Sharma", "role": "Batsman", "country": "India", "base_price": 2},
+    {"name": "Virat Kohli", "role": "Batsman", "country": "India", "base_price": 2},
+    {"name": "Jasprit Bumrah", "role": "Bowler", "country": "India", "base_price": 2},
+    {"name": "Hardik Pandya", "role": "AllRounder", "country": "India", "base_price": 2},
+    {"name": "KL Rahul", "role": "Batsman", "country": "India", "base_price": 1},
+    {"name": "Ravindra Jadeja", "role": "AllRounder", "country": "India", "base_price": 2},
+    {"name": "Shubman Gill", "role": "Batsman", "country": "India", "base_price": 1},
+    {"name": "Mohammed Siraj", "role": "Bowler", "country": "India", "base_price": 1},
+    {"name": "Suryakumar Yadav", "role": "Batsman", "country": "India", "base_price": 1},
+    {"name": "Rishabh Pant", "role": "WicketKeeper", "country": "India", "base_price": 2},
+    {"name": "Pat Cummins", "role": "AllRounder", "country": "Australia", "base_price": 2},
+    {"name": "Mitchell Starc", "role": "Bowler", "country": "Australia", "base_price": 2},
+    {"name": "David Warner", "role": "Batsman", "country": "Australia", "base_price": 1},
+    {"name": "Glenn Maxwell", "role": "AllRounder", "country": "Australia", "base_price": 1},
+    {"name": "Jos Buttler", "role": "WicketKeeper", "country": "England", "base_price": 2},
+    {"name": "Ben Stokes", "role": "AllRounder", "country": "England", "base_price": 2},
+    {"name": "Trent Boult", "role": "Bowler", "country": "New Zealand", "base_price": 1},
+    {"name": "Kagiso Rabada", "role": "Bowler", "country": "South Africa", "base_price": 1},
+    {"name": "Quinton de Kock", "role": "WicketKeeper", "country": "South Africa", "base_price": 1},
+    {"name": "Nicholas Pooran", "role": "WicketKeeper", "country": "West Indies", "base_price": 1}
+]

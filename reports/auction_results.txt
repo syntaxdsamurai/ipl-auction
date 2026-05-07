@@ -1,0 +1,43 @@
+Auction Result 
+
+TEAM: Mumbai Indians
+REMAINING BUDGET: 82.5cr
+SQUAD:
+  - Nicholas Pooran (5.0Cr)
+  - Rishabh Pant (2.5Cr)
+------------------------------
+
+TEAM: Chennai Super Kings
+REMAINING BUDGET: 85.5cr
+SQUAD:
+  - Ben Stokes (4.5Cr)
+------------------------------
+
+TEAM: Royal Challengers Bangalore
+REMAINING BUDGET: 76.0cr
+SQUAD:
+  - Virat Kohli (3.5Cr)
+  - Trent Boult (3.0Cr)
+  - Mohammed Siraj (1.5Cr)
+  - Jos Buttler (6.0Cr)
+------------------------------
+
+TEAM: Kolkata Knight Riders
+REMAINING BUDGET: 76.5cr
+SQUAD:
+  - Glenn Maxwell (4.0Cr)
+  - Kagiso Rabada (1.5Cr)
+  - Jasprit Bumrah (4.0Cr)
+  - Mitchell Starc (4.0Cr)
+------------------------------
+
+UNSOLD PLAYERS
+  - KL Rahul | Batsman
+  - Quinton de Kock | WicketKeeper
+  - Pat Cummins | AllRounder
+  - David Warner | Batsman
+  - Ravindra Jadeja | AllRounder
+  - Suryakumar Yadav | Batsman
+  - Hardik Pandya | AllRounder
+  - Rohit Sharma | Batsman
+  - Shubman Gill | Batsman
