@@ -18,7 +18,7 @@ raise the bid or withdraw. Highest remaining bidder wins the player.
 
 ## Project Structure
 
-\```
+```
 ipl-auction/
 │
 ├── models/
@@ -34,19 +34,19 @@ ipl-auction/
 ├── auction.py          # Auction class — core logic
 ├── main.py             # Entry point
 └── requirements.txt
-\```
+```
 
 ## How to run
 
-\```bash
+```bash
 python main.py
-\```
+```
 
 When prompted — type `y` to bid, `n` to withdraw.
 
 ## Sample output
 
-\```
+```
 TEAM: Royal Challengers Bangalore
 REMAINING BUDGET: 76.0cr
 SQUAD:
@@ -56,7 +56,7 @@ SQUAD:
 UNSOLD PLAYERS
   - Rohit Sharma | Batsman
   - Hardik Pandya | AllRounder
-\```
+```
 
 ## Tech Stack
 
