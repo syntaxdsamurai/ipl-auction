@@ -62,6 +62,3 @@ UNSOLD PLAYERS
 
 Python · OOP · JSON · File I/O
 
-## Author
-
-Dhruv | github.com/syntaxdsamurai
